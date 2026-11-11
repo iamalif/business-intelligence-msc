@@ -1,0 +1,13 @@
+# Direct package versions used for notebook execution on Python 3.12.14
+# Reference snapshot, not a complete dependency lock. JupyterLab was not part of this execution check.
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+nltk==3.10.4
+wordcloud==1.9.6
+vaderSentiment==3.3.2
+Pillow==13.0.0
+plotly==7.1.0
+ipykernel==7.4.0
