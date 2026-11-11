@@ -14,7 +14,7 @@ This repository is a coursework collection. It distinguishes completed analytica
 | [Lab 4](lab4-clustering/) | EV charging exploration using PCA and K-means | Notebook and data |
 | [Lab 5](lab5-text-mining-nlp/) | Dialogue text mining, TF-IDF and sentiment analysis | Notebook and supporting inputs |
 
-The final GeoLife trip-purpose project is being prepared as a standalone repository. Its link will be added here after publication.
+The final [GeoLife trip-purpose classification project](https://github.com/iamalif/geolife-trip-purpose-classification) is published separately, including its pipeline, saved results, figures and revised academic report.
 
 ## Setup
 
